@@ -931,6 +931,12 @@ html, body {
     min-height: 250px;
 }
 
+.sellos {
+   /*  min-height: 250px;
+    max-height: 250px; */
+    height: 70px;
+}
+
 .service-title {
     margin: 35px 0 25px;
     font-size: 13px;
@@ -1154,7 +1160,7 @@ a.linkedin-bg:hover {
     margin-top: 25px;
 }
 
-#grid .col-md-4 {
+#grid -4 {
     display: none;
 }
 
