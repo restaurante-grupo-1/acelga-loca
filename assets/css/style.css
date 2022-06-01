@@ -784,6 +784,10 @@ html, body {
     
 }
 
+.contactobanner {
+    background: url(../img/restauranteBannerContacto.jpg) no-repeat center / cover; 
+}
+
 .overlay:before {
   content: '';
   background-color: rgba(255,255,255,0.5);
@@ -871,10 +875,6 @@ html, body {
     color: #6fc754;
 }
 
-
-.contact-hero {
-    background: url(../img/contact-hero.jpg) no-repeat center / cover;     
-}
 
 /* SITEMAIN
 ================================================== */
