@@ -779,6 +779,11 @@ html, body {
     position: relative;
 }
 
+.sobrenosotrasbanner {
+    background: url(../img/equipo-sobre.jpg) no-repeat center / cover;
+    
+}
+
 .overlay:before {
   content: '';
   background-color: rgba(255,255,255,0.5);
@@ -1453,3 +1458,4 @@ a.linkedin-bg:hover {
   height: 500px;
   width: 100%
 }
+
