@@ -903,7 +903,7 @@ html, body {
     height: 2px;
     width: 50px;
     margin: 0 auto;
-    background-color: #267df4;
+    background-color: rgb(0, 172, 86);
 }
 
 /* Section: Features */
