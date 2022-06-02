@@ -812,6 +812,9 @@ html, body {
     padding: 0 15px;
     text-align: center;
 }
+.logo{
+    position: relative;
+}
 
 .hero-text h1 {
     position: relative;
