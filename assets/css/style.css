@@ -49,10 +49,17 @@ a:hover {
 
 p {
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 300;
-    color: #9fa3a7;
+    color: #000000;
     line-height: 22px;
+}
+ul {
+    margin-bottom: 0;
+    font-size: 17px;
+    font-weight: 300;
+    color: #000000;
+    line-height: 22px; 
 }
 
 h1 {
@@ -104,7 +111,7 @@ p + p {
 }
 
 .btn-green {
-    background-color: #6fc754;
+    background-color: #99cc99;
     color: #fff;  
 }
 
@@ -709,11 +716,11 @@ html, body {
 .slicknav_open .slicknav_arrow,
 .slicknav_nav > li a:hover {
     background-color: transparent;
-    color: #f2a659;
+    color: #8f5215;
 }
 
 .navbar-toggle {
-    border-color: rgb(97, 88, 88);
+    border-color: #fff;
     margin: 0 15px 0 0;
     position: relative;
     top: -1px;
@@ -906,7 +913,7 @@ html, body {
     height: 2px;
     width: 50px;
     margin: 0 auto;
-    background-color: rgb(0, 172, 86);
+    background-color: #99cc99;
 }
 
 /* Section: Features */
@@ -942,12 +949,12 @@ html, body {
 
 .service-title {
     margin: 35px 0 25px;
-    font-size: 13px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
 .service-info {
-    font-size: 13px; 
+    font-size: 18px; 
 }
 
 /* Section: Map Feature */
