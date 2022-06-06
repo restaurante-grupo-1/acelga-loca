@@ -641,9 +641,9 @@ html, body {
 /* HEADER
 ================================================== */
 .site-header {
-    position: absolute;
-    padding: 50px 0 0;
-    background-color: transparent;
+    position: inline;
+    padding: 10px 0 10px;
+    background-color: rgb(12, 12, 12);
     width: 100%;
     z-index: 3;
 }
@@ -652,7 +652,7 @@ html, body {
 .site-title {
     font-size: 18px;
     line-height: 26px;
-    color: #26272d;
+    color: #eaedfb;
 }
 
 .site-title:hover {
@@ -716,7 +716,7 @@ html, body {
 .slicknav_open .slicknav_arrow,
 .slicknav_nav > li a:hover {
     background-color: transparent;
-    color: #8f5215;
+    color: #097718;
 }
 
 .navbar-toggle {
