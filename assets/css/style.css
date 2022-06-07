@@ -70,6 +70,13 @@ h2 {
     font-size: 42px;
 }
 
+.encabezado-sello {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+}
+
 h1,h2,h3,h4,h5 {
     color: #26292c;
 }
@@ -943,9 +950,9 @@ html, body {
 }
 
 .sellos {
-   /*  min-height: 250px;
-    max-height: 250px; */
-    height: 70px;
+    /* min-height: 70px;*/
+    /*max-height: 140px;*/
+    height: 140px;
 }
 
 .service-title {
