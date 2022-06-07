@@ -80,14 +80,14 @@ p + p {
 
 /* Buttons */
 .btn {
-    line-height: 50px;
-    min-width: 200px;
+    line-height: 70px;
+    min-width: 400px;
     font-size: 16px;
     font-weight: 300;
     border: 0;
     border-radius: 50px;
-    color: #26272d;
-    background-color: #fff;
+    color: #ffffff;
+    background-color: rgb(255, 255, 255);
     padding: 0;
     transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
     -moz-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
@@ -641,11 +641,12 @@ html, body {
 /* HEADER
 ================================================== */
 .site-header {
-    position: inline;
+    position: fixed;
     padding: 10px 0 10px;
     background-color: rgb(12, 12, 12);
     width: 100%;
     z-index: 3;
+    
 }
 
 /* Site-logo */
@@ -837,7 +838,7 @@ html, body {
 
 .hero-text .btn {
     position: relative;
-    background-color: transparent;
+    background-color: rgb(0, 0, 0);
 }
 
 .hero-text .btn:hover {
