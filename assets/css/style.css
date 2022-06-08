@@ -827,6 +827,12 @@ html, body {
     padding: 0 15px;
     text-align: center;
 }
+
+.menubanner {
+    background: url(../img/vegan104.jpg) no-repeat center / cover;
+
+}
+
 .logo{
     position: relative;
 }
