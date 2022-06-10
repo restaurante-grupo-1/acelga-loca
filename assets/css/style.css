@@ -665,11 +665,21 @@ html, body {
     color: #eaedfb;
 }
 
+.site-title-negro {
+    font-size: 18px;
+    line-height: 26px;
+    color: #030304;
+}
+
 .site-title:hover {
     color: #26272d;   
 }
 
 .site-title span {
+    font-weight: 700;
+}
+
+.site-title-negro span {
     font-weight: 700;
 }
 
